@@ -1,0 +1,16 @@
+{
+  "name": "calcjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/johnnatas/calculatorJS.git",
+  "author": "Jonatas Lopes",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5"
+  }
+}
